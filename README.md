@@ -2,5 +2,5 @@ End-to-end supply chain and sales analysis using Excel, SQL, Python, and Power B
 
 • Excel: Data cleaning and initial exploration
 • SQL: Data extraction, transformation, and advanced querying using joins, CTEs, and window functions
-• Python: Exploratory data analysis and pattern detection (in progress)
+• Python: Exploratory data analysis and trend identification using Pandas
 • Power BI: Data modeling, KPI development, and interactive dashboard creation
