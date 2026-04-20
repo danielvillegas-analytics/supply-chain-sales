@@ -1,4 +1,4 @@
-# 📊 Supply Chain Sales Analysis
+# Supply Chain Sales Analysis
 
 ## Project Overview
 This project presents an end-to-end analysis of supply chain and sales data using Excel, SQL, Python, and Power BI. The objective was to transform raw data into actionable insights and support data-driven decision-making.
